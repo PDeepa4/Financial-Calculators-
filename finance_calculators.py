@@ -1,5 +1,6 @@
 import math
 
+print("----- Investment and Home Loan Repayment Calculators! -----")
 
 print(""" 
 investment - to calculate the amount of interest you'll earn on your investment
